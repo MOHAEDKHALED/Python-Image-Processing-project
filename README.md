@@ -20,9 +20,9 @@ this filters is used in the project with tkinter GUI
 ☆8) Brightness adjustment .
 
 ☆9) power_low .
-10) Histogram equalization.  
+☆10) Histogram equalization.  
 
-11) Histogram matching.  
+☆11) Histogram matching.  
 
 ☆12) Add & subtract two images.
 
